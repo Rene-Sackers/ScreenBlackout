@@ -5,7 +5,7 @@
 		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 		xmlns:local="clr-namespace:ScreenBlackout"
 		mc:Ignorable="d"
-		Title="BlackoutWindow"
+		Title="Screen Blackout"
 		WindowStyle="None"
 		Background="Black"
 		MouseLeftButtonUp="MouseLeftButtonUpHandler"
